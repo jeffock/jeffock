@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-----
+<br/>
 
 ## 🔭 Languages
 <div align="center">
@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 <br/>  
 -->
 
-----
+
