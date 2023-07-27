@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 ## Learning:
 <div align="center">
+  <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white alt=lua style="margin-bottom: 5px;" />
   <img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white alt=cpp style="margin-bottom: 5px;" />
   <img src=https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white alt=lua style="margin-bottom: 5px;" />
   <img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E alt=javascript style="margin-bottom: 5px;" />
