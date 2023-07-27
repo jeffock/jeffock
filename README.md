@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white alt=java style="margin-bottom: 5px;" />
 </div>  
 
-<!--
+
 ## 🌱 Learning
 <div align="center">
   <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white alt=lua style="margin-bottom: 5px;" />
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   <img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E alt=javascript style="margin-bottom: 5px;" />
 </div>  
 
+<!--
 ## 💻 DevOps  
 <div align="center">
   <img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white alt=windows style="margin-bottom: 5px;" />
