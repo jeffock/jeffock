@@ -12,7 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
+
+
+----
+
+- 🔭 Python, Java, HTML5, CSS3
+- 🌱 I’m currently learning: JS, C/C++, Lua
+
 ----
 
 ## My Profiles  
