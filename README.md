@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## 💻 DevOS  
 <div align="center">
-  <img src=https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white alt=linux style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white alt=linux style="margin-bottom: 5px;" />
   <img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white alt=windows style="margin-bottom: 5px;" />
   <img src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white alt=git style="margin-bottom: 5px;" />
 </div>  
