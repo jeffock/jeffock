@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ----
 
-## My Profiles  
+## Profiles:  
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jeffrey-chaewon-ock-a137261b1" target="_blank">
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## Github Stats  
+## Github:  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeffock&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
