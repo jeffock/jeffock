@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 ## Editors:  
 <div align="center">
   <img src=https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white alt=neovim style="margin-bottom: 5px;" />
-  <img src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white alt=vscode style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white alt=vscode style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important alt=sublime style="margin-bottom: 5px;" />
 </div>  
 
 <br/>
