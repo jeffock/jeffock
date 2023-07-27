@@ -39,12 +39,14 @@ Here are some ideas to get you started:
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </div>  
-  
+
+<!--
 <br/>  
 
 ## Github:  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeffock&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+-->
 
 ----
