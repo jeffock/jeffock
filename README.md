@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-## 🔭 Languages
+## 💻 Languages
 <div align="center">
   <img src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white alt=python style="margin-bottom: 5px;" />
   <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white alt=css style="margin-bottom: 5px;" />
