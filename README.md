@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 <div align="center">
   <img src=https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white alt=linux style="margin-bottom: 5px;" />
   <img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white alt=windows style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white alt=git style="margin-bottom: 5px;" />
 </div>  
 
 <br/>
-
+ 	
 ## Editors:  
 <div align="center">
   <img src=https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white alt=neovim style="margin-bottom: 5px;" />
