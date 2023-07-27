@@ -16,25 +16,31 @@ Here are some ideas to get you started:
 
 ----
 
+## Langs:
+
 - 🔭 Code in: Python, Java, HTML5, CSS3
 - 🌱 Learning: JS, C/C++, Lua
 
-----
-
+<br/>
 
 ## DevOS:  
 <div align="center">
-  <img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black alt=linux style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white alt=linux style="margin-bottom: 5px;" />
   <img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white alt=windows style="margin-bottom: 5px;" />
+</div>  
+
+<br/>
+
+## Editors:  
+<div align="center">
+  <img src=https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white alt=neovim style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white alt=vscode style="margin-bottom: 5px;" />
 </div>  
 
 <br/>
 
 ## Profiles:  
 <div align="center">
-  <a href="https://github.com/jeffock" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
   <a href="https://www.linkedin.com/in/jeffrey-chaewon-ock-a137261b1" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
