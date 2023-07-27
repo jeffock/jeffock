@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ----
 
-- 🔭 Python, Java, HTML5, CSS3
-- 🌱 I’m currently learning: JS, C/C++, Lua
+- 🔭 Code in: Python, Java, HTML5, CSS3
+- 🌱 Learning: JS, C/C++, Lua
 
 ----
 
