@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ## Langs:
 
+<br/>
+
 - 🔭 Code in: Python, Java, HTML5, CSS3
 - 🌱 Learning: JS, C/C++, Lua
 
