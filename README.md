@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white alt=java style="margin-bottom: 5px;" />
 </div>  
 
+<!--
 ## 🌱 Learning
 <div align="center">
   <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white alt=lua style="margin-bottom: 5px;" />
@@ -31,14 +32,17 @@ Here are some ideas to get you started:
   <img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E alt=javascript style="margin-bottom: 5px;" />
 </div>  
 
-## 💻 DevOS  
+## 💻 DevOps  
 <div align="center">
-  <img src=https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white alt=linux style="margin-bottom: 5px;" />
   <img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white alt=windows style="margin-bottom: 5px;" />
   <img src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white alt=git style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black alt=linux style="margin-bottom: 5px;" />
 </div>  
 
+-->
+
 <br/>
+
 
 <!--
 <br/>  
