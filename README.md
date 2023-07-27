@@ -44,6 +44,21 @@ Here are some ideas to get you started:
 
 <br/>
 
+___
+
+
+
+## 📈 Github Stats
+<details>
+<summary>&#x200B;</summary>
+<br>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeffock&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br>
+</details>
+
+
 
 <!--
 <br/>  
