@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ## 💻 Languages
-<!--
+<--
 <div align="center">
   <img src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white alt=python style="margin-bottom: 5px;" />
   <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white alt=css style="margin-bottom: 5px;" />
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E alt=javascript style="margin-bottom: 5px;" />
 </div>  
 
-<!--
+<--
 ## 💻 DevOps  
 <div align="center">
   <img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white alt=windows style="margin-bottom: 5px;" />
@@ -53,18 +53,22 @@ Here are some ideas to get you started:
 
 
 ## 📈 Github Stats
-<!--
+<--
 <details>
 <summary>&#x200B;</summary>
 -->
-<br>
-
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=jeffock&theme=nord&layout=compact' />
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=jeffock&theme=nord&show_icons=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=jeffock&theme=nord' />
-
 
 <br>
+
+
+
+<div align="center"><img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=jeffock&theme=nord&layout=compact' /></div>
+<div align="center"><img width=400 src='https://github-readme-stats.vercel.app/api?username=jeffock&theme=nord&show_icons=true' /></div>
+<div align="center"><img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=jeffock&theme=nord' /></div>
+
+
+<br>
+
 <!--
 </details>
 -->
