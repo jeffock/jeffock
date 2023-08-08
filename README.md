@@ -11,11 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
 
 <br/>
 
+
 ## 💻 Languages
+<!--
 <div align="center">
   <img src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white alt=python style="margin-bottom: 5px;" />
   <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white alt=css style="margin-bottom: 5px;" />
@@ -23,6 +25,8 @@ Here are some ideas to get you started:
   <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white alt=java style="margin-bottom: 5px;" />
   <img src=https://img.shields.io/badge/Rust-8C5943?style=for-the-badge&logo=rust&logoColor=white alt=rust style="margin-bottom: 5px;" />
 </div>  
+--
+
 
 ## 🌱 Learning
 <div align="center">
@@ -44,20 +48,26 @@ Here are some ideas to get you started:
 
 <br/>
 
-___
+
 
 
 
 ## 📈 Github Stats
+<!--
 <details>
 <summary>&#x200B;</summary>
+-->
 <br>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeffock&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=jeffock&theme=nord&layout=compact' />
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=jeffock&theme=nord&show_icons=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=jeffock&theme=nord' />
+
 
 <br>
+<!--
 </details>
-
+-->
 
 
 <!--
