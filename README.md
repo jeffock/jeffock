@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black alt=linux style="margin-bottom: 5px;" />
 </div>  
 
--->
+--
 
 <br/>
 
