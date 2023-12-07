@@ -70,10 +70,10 @@ Here are some ideas to get you started:
 <br>
 
 ___
-
+<!--
 <br>
 
-<!--
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffock&repo=jeffock)](https://github.com/jeffock/jeffock)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=dce0c67169111ce3e17287ea7c2d0183)](https://gist.github.com/jeffock/dce0c67169111ce3e17287ea7c2d0183)
 -->
