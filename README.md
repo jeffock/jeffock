@@ -62,9 +62,9 @@ Here are some ideas to get you started:
 
 
 
-<div align="center"><img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=jeffock&theme=nord&layout=compact&size_weight=0.5' /></div>
-<div align="center"><img width=400 src='https://github-readme-stats.vercel.app/api?username=jeffock&theme=nord&show_icons=true' /></div>
-<div align="center"><img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=jeffock&theme=nord' /></div>
+<div align="center"><img width=400 src='https://github-readme-stats.vercel.app/api?username=jeffock&theme=solarized-light&show_icons=true&hide_border=true&count_private=true' /></div>
+<div align="center"><img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=jeffock&theme=solarized-light&hide_border=true' /></div>
+<div align="center"><img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=jeffock&theme=solarized-light&show_icons=true&hide_border=true&layout=compact' /></div>
 
 
 <br>
